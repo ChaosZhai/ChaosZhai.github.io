@@ -6,7 +6,7 @@ subtitle: <a href='https://www.cs.cmu.edu/'>Carnegie Mellon University</a>.
 
 profile:
   align: right
-  image: img/prof_pic.jpg
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Pittsburgh, PA</p>
