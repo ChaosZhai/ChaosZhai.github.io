@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2023-8-28
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Started TA'ing [database systems](https://15445.courses.cs.cmu.edu/fall2023/)!
