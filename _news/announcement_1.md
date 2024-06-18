@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Started TA'ing [database systems](https://15445.courses.cs.cmu.edu/fall2023/)!
+Started TA\'ing [database systems](https://15445.courses.cs.cmu.edu/fall2023/)!
