@@ -16,4 +16,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-No record, no existence.
+Hi I'm RJ and I'm a basketball aficionado, gym rat, and software engineer.
+
+I completed my B.Sc. at Carnegie Mellon’s School of Computer Science, majoring in computer science with a concentration in computer systems. I also had a double major in applied mathematics where I focused on computational finance. My academic interests are databases and computer systems optimization.
+
+I like sports, traveling, enjoying films and music.
+
+> No record, no existence.
