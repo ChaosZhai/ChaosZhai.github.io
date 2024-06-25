@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
+title: needle deep learning framework
+description: mini pytorch with CPU, CUDA & Apple Metal GPU support
+img: assets/img/metal-archi.png
 importance: 3
-category: fun
+category: school
 ---
 
 Every project has a beautiful feature showcase page.

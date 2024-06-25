@@ -59,11 +59,12 @@ blockquote {
   background: var(--global-bg-color);
   border-left: 5px solid var(--global-theme-color);
   margin: 1.5em 0;
-  padding: 1em;
-  font-size: 1.2rem;
+  padding: 0.5em 1em;
+  font-size: 1rem;
 
   p {
     margin-bottom: 0;
+    font-size: 1rem; // Adjusted to match the normal text size
   }
 
   /* Tips, warnings, and dangers blockquotes */

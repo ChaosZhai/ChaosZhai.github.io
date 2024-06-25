@@ -2,7 +2,7 @@
 layout: page
 title: Bustub Relatioanl Database (Educational)
 description: cmu-15445
-img: assets/img/12.jpg
+img: assets/img/bustub-whiteborder.svg
 importance: 1
 category: work
 related_publications: false

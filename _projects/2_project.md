@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
+title: x86 Preemptive Kernel
+description: implement preemptive kernel (cmu-15410)
 img: assets/img/3.jpg
 importance: 2
-category: work
+category: school
 giscus_comments: true
 ---
 
