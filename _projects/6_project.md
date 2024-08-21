@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
+title: place holder
+description: a place holder
 img:
 importance: 4
 category: fun

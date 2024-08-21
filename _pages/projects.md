@@ -5,8 +5,8 @@ permalink: /projects/
 description: Growing collection.
 nav: true
 nav_order: 3
-display_categories: [work, fun]
-horizontal: false
+display_categories: [cmu, fun]
+horizontal: true
 ---
 
 <!-- pages/projects.md -->

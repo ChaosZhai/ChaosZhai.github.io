@@ -2,9 +2,9 @@
 layout: page
 title: x86 Preemptive Kernel
 description: implement preemptive kernel (cmu-15410)
-img: assets/img/3.jpg
+img: assets/img/os-fun.png
 importance: 2
-category: school
+category: cmu
 giscus_comments: true
 ---
 

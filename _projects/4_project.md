@@ -4,7 +4,7 @@ title: needle deep learning framework
 description: mini pytorch with CPU, CUDA & Apple Metal GPU support
 img: assets/img/metal-archi.png
 importance: 3
-category: school
+category: cmu
 ---
 
 Every project has a beautiful feature showcase page.
