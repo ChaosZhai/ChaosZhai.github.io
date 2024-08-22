@@ -22,4 +22,4 @@ I completed my B.Sc. at Carnegie Mellon’s School of Computer Science, majoring
 
 I like sports, traveling, enjoying films and music.
 
-> No record, no existence.
+> Must we sail in high winds.
