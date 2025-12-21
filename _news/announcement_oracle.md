@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Started as SDE at Oracle DB Query Optimzier
+Started as MTS at Oracle DB Query Optimzier
